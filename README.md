@@ -22,26 +22,17 @@ The Grocery Store Management System is a web-based application that enables groc
 
 ## Installation
 
-1. Clone the repository: git clone 
+1. Clone the repository: git clone https://github.com/kscm952/Grocery_Store_Management_System_Python.git
 2. Navigate to the project directory
 3. Install the required dependencies: pip install -r requirements.txt
-4. Set up the SQL database.
-EER Diagram is attached to understand the type of database <img width="538" alt="image" src="https://github.com/ankitrajput77/grocery_store_webapp/assets/113281225/d5f5610e-bfb0-4c8e-8291-80c86c100f23">
+4. Make changes of root, password in sql_connection.py file (SQL database).
 6. Run the application, server.py
 7. Access the web application in your browser: (use path of ./grocery_app/ui/index.html as browser url)
-
-## In-action 
-
-[Click here to watch the video](https://www.dropbox.com/s/md4k7s832kj2tvb/VID_20230612131528.mp4?dl=0)
-
 
 ## Contributing
 
 Contributions to the Grocery Store Management System web app are welcome! If you find any bugs, have suggestions for improvements, or want to add new features, please feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
 
